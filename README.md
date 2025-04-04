@@ -1,46 +1,35 @@
-IoT Project – Smart School Network & Impact in Football
-This repository includes an IoT project developed as part of an exploration into how Internet of Things technology can be applied in both educational and sports environments.
+# IoT Project – Smart School Network & Impact in Football
 
-🔌 1. Smart School Network (Cisco Packet Tracer)
-I created a Cisco Packet Tracer file that simulates a smart school network. The simulation includes connected devices such as:
+This repository includes an IoT project developed as part of an exploration into how Internet of Things (IoT) technology can be applied in both educational and sports environments.
 
-temperature sensors
+## 🔌 1. Smart School Network (Cisco Packet Tracer)
 
-surveillance cameras
+I created a **Cisco Packet Tracer** file that simulates a smart school network. The simulation includes connected devices such as:
+- temperature sensors  
+- surveillance cameras  
+- smart display panels  
+- digitally controlled doors  
 
-smart display panels
+The purpose of this simulation is to showcase my vision of how IoT devices can be integrated into a modern educational institution to improve security, energy efficiency, and the overall learning experience.
 
-digitally controlled doors
+## 📊 2. Scientific Research – The Impact of IoT in Football
 
-The goal of this simulation is to present my vision of how IoT devices can be integrated into a modern educational institution to enhance security, energy efficiency, and the overall student experience.
-
-📊 2. Scientific Research – The Impact of IoT in Football
-I also conducted a scientific research project on the impact of IoT in football. The paper explores how IoT technology contributes to:
-
-monitoring player performance
-
-preventing injuries
-
-enhancing training sessions through real-time data
+I also conducted a **scientific research project** focused on the impact of IoT in football. The paper analyzes how IoT contributes to:
+- monitoring player performance  
+- injury prevention  
+- enhancing training sessions using real-time data  
 
 This part of the project includes:
+- a **LaTeX document** with the research content  
+- a **PowerPoint presentation** used for oral presentation of the topic  
 
-a LaTeX document with the written research paper
+## 📁 Project Structure
 
-a PowerPoint presentation prepared for the oral defense of the project
 
-📁 Project Structure
-bash
-Copy
-Edit
-📁 smart-school.pkt          # Cisco Packet Tracer simulation file
-📁 impact-iot-football/
-    ├── research.tex         # Scientific research paper in LaTeX
-    └── presentation.pptx    # PowerPoint presentation
-🛠️ Technologies Used
-Cisco Packet Tracer (for smart school simulation)
 
-LaTeX (for typesetting the scientific research)
+## 🛠️ Technologies Used
 
-Microsoft PowerPoint (for the project presentation)
+- **Cisco Packet Tracer** – for simulating the smart school network  
+- **LaTeX** – for typesetting the scientific research paper  
+- **Microsoft PowerPoint** – for creating the project presentation
 

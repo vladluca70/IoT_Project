@@ -24,7 +24,10 @@ This part of the project includes:
 - a **PowerPoint presentation** used for oral presentation of the topic  
 
 ## 📁 Project Structure
-
+##📁 smart-school.pkt # Cisco Packet Tracer simulation file 
+##📁 impact-iot-football/ 
+  ├── research.tex # Scientific research paper in LaTeX 
+  └── presentation.pptx # PowerPoint presentation
 
 
 ## 🛠️ Technologies Used

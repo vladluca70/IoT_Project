@@ -23,7 +23,7 @@ This part of the project includes:
 - a **LaTeX document** with the research content  
 - a **PowerPoint presentation** used for oral presentation of the topic  
 
-Project Structure
+## 📁 Project Structure
 ├── scientific_research.pdf         (Scientific research in LaTeX)
 ├── Scientific_research_slides.pptx (PowerPoint presentation for the scientific research)
 └── iot_smart_school.pkt            (Smart School project made in Cisco Packet Tracer)
